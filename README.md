@@ -1,13 +1,5 @@
 # E-Commerce
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Node Version](https://img.shields.io/badge/node.js-14.x%20|%2016.x%20|%2018.x-brightgreen)](https://nodejs.org/en/download/)
- <a href="https://img.shields.io/github/languages/count/vishalyadav0987/E-Commerce">
-    <img src="https://img.shields.io/github/languages/count/vishalyadav0987/E-Commerce" alt="Languages Count"/>
-  </a>
-
-
-
 ## Description
 This project is a full-featured eCommerce website built using the MERN stack (MongoDB, Express.js, React, and Node.js). It provides a robust platform for users to browse products, add items to their cart, and complete purchases securely. The application features a modern, responsive design and utilizes Cloudinary for efficient image management.
 
@@ -40,7 +32,7 @@ This project is a full-featured eCommerce website built using the MERN stack (Mo
 
 1. **Clone the repository**:
     ``` bash
-    git clone https://github.com/vishalyadav0987/E-Commerce.git
+    git clone https://github.com/priyadharshine8/E-Commerce.git
     cd E-COMMERCE
     ```
 
@@ -104,7 +96,3 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-
-## Contact
-
-For any inquiries or feedback, please contact [viahalyadav0987@gmail.com].
